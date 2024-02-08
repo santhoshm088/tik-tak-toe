@@ -1,0 +1,9 @@
+#root {
+  min-height: 100%;
+  background-color: rgb(40, 4, 4)
+}
+
+div .bor{
+  border:3px solid rgb(4, 72, 70);
+
+}

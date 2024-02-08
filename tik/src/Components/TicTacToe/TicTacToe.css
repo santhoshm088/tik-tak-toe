@@ -1,0 +1,33 @@
+#root {
+    
+    background-color: rgb(40, 4, 4)
+  }
+ 
+  div .bor{
+   
+    display: flex;
+   justify-content: center;
+    border:3px solid rgb(4, 72, 70);
+    align-items: center;
+    
+    
+  }
+  
+
+img{
+  height: 100px;
+  width: 100px;
+  
+}
+
+#btn{
+  width: 6em;
+  border-radius: 50px;
+  border-style:double;
+}
+#btn:hover{
+  background-color: rgb(27, 126, 133);
+}
+h1{
+  
+}
